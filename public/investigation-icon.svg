@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer document frame -->
+  <rect x="3" y="3" width="12" height="16" rx="1" stroke="currentColor" stroke-width="2" fill="none"/>
+  
+  <!-- Inner content area -->
+  <rect x="5" y="6" width="8" height="3" rx="0.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+  
+  <!-- Document lines -->
+  <path d="M5 11h6M5 13h6M5 15h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- Large magnifying glass -->
+  <circle cx="16" cy="13" r="4" stroke="currentColor" stroke-width="2" fill="none"/>
+  <path d="m19 16 2.5 2.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Magnifying glass details -->
+  <path d="M14 13h4M16 11v4" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg> 
